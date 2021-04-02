@@ -1,0 +1,12 @@
+2020-04-08 18:21:11,601 - Mpow - ERROR - login error msg : password null verification fail
+2020-04-08 18:21:11,601 - Mpow - ERROR - login error msg : password null verification fail
+2020-04-08 18:21:11,875 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-04-08 18:21:11,875 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-04-08 18:21:54,249 - Mpow - INFO - login email is null msg : email null verification success
+2020-04-08 18:21:54,249 - Mpow - INFO - login email is null msg : email null verification success

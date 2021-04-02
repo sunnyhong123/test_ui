@@ -1,0 +1,42 @@
+2019-11-29 09:25:27,457 - Mpow - INFO - 验证错误格式注册信息注册失败：error verification success
+2019-11-29 09:25:49,720 - Mpow - INFO - email is null result: error verification success
+2019-11-29 09:25:49,720 - Mpow - INFO - email is null result: error verification success
+2019-11-29 09:26:09,707 - Mpow - ERROR - password is null error : password verification fail
+2019-11-29 09:26:09,707 - Mpow - ERROR - password is null error : password verification fail
+2019-11-29 09:26:09,707 - Mpow - ERROR - password is null error : password verification fail
+2019-11-29 09:26:30,022 - Mpow - ERROR - register password short msg: password verification fail
+2019-11-29 09:26:30,022 - Mpow - ERROR - register password short msg: password verification fail
+2019-11-29 09:26:30,022 - Mpow - ERROR - register password short msg: password verification fail
+2019-11-29 09:26:50,819 - Mpow - INFO - register password different result: password different verification success
+2019-11-29 09:26:50,819 - Mpow - INFO - register password different result: password different verification success
+2019-11-29 09:26:50,819 - Mpow - INFO - register password different result: password different verification success
+2019-11-29 09:27:06,967 - Mpow - INFO - login email is null msg : email null verification success
+2019-11-29 09:27:06,967 - Mpow - INFO - login email is null msg : email null verification success
+2019-11-29 09:27:06,967 - Mpow - INFO - login email is null msg : email null verification success
+2019-11-29 09:27:23,470 - Mpow - INFO - login password is null msg : password null verification success
+2019-11-29 09:27:23,470 - Mpow - INFO - login password is null msg : password null verification success
+2019-11-29 09:27:23,470 - Mpow - INFO - login password is null msg : password null verification success
+2019-11-29 09:27:42,125 - Mpow - INFO - login is register msg : login success
+2019-11-29 09:27:42,125 - Mpow - INFO - login is register msg : login success
+2019-11-29 09:27:42,125 - Mpow - INFO - login is register msg : login success
+2019-11-29 09:28:26,351 - Mpow - ERROR - login error msg : password null verification fail
+2019-11-29 09:28:26,351 - Mpow - ERROR - login error msg : password null verification fail
+2019-11-29 09:28:26,351 - Mpow - ERROR - login error msg : password null verification fail
+2019-11-29 09:28:26,665 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2019-11-29 09:28:26,665 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2019-11-29 09:28:26,665 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2019-11-29 09:28:51,483 - Mpow - INFO - register result: register success
+2019-11-29 09:28:51,483 - Mpow - INFO - register result: register success
+2019-11-29 09:28:51,483 - Mpow - INFO - register result: register success
+2019-11-29 09:28:59,728 - Mpow - INFO - return My Account msg : submit success
+2019-11-29 09:28:59,728 - Mpow - INFO - return My Account msg : submit success
+2019-11-29 09:28:59,728 - Mpow - INFO - return My Account msg : submit success

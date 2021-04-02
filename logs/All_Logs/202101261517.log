@@ -1,0 +1,12 @@
+2021-01-26 15:17:45,233 - Mpow - ERROR - login exception msg : Message: no such element: Unable to locate element: {"method":"id","selector":"login-email"}
+  (Session info: chrome=87.0.4280.141)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2021-01-26 15:17:45,233 - Mpow - ERROR - login exception msg : Message: no such element: Unable to locate element: {"method":"id","selector":"login-email"}
+  (Session info: chrome=87.0.4280.141)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2021-01-26 15:17:45,233 - Mpow - ERROR - login exception msg : Message: no such element: Unable to locate element: {"method":"id","selector":"login-email"}
+  (Session info: chrome=87.0.4280.141)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 6.1.7601 SP1 x86_64)
+

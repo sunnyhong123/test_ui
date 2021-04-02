@@ -1,0 +1,19 @@
+2020-01-15 10:00:25,052 - Mpow - ERROR - register  - 32 - register error: not such elements
+2020-01-15 10:04:27,839 - Mpow - ERROR - login  - 27 - login error msg : password null verification fail
+2020-01-15 10:04:27,839 - Mpow - ERROR - login  - 27 - login error msg : password null verification fail
+2020-01-15 10:04:27,839 - Mpow - ERROR - login  - 27 - login error msg : password null verification fail
+2020-01-15 10:04:28,115 - Mpow - ERROR - test_2login  - 32 - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-01-15 10:04:28,115 - Mpow - ERROR - test_2login  - 32 - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-01-15 10:04:28,115 - Mpow - ERROR - test_2login  - 32 - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-01-15 10:04:50,985 - Mpow - ERROR - register  - 32 - register error: not such elements
+2020-01-15 10:04:50,985 - Mpow - ERROR - register  - 32 - register error: not such elements
+2020-01-15 10:04:50,985 - Mpow - ERROR - register  - 32 - register error: not such elements

@@ -1,0 +1,7 @@
+2019-10-11 10:06:35,889 - Mpow - INFO - register password different result: password different verification success
+2019-10-11 10:07:16,411 - Mpow - INFO - login email is null msg : email null verification success
+2019-10-11 10:07:57,871 - Mpow - INFO - login password is null msg : password null verification success
+2019-10-11 10:08:56,825 - Mpow - INFO - login is register msg : login success
+2019-10-11 10:11:47,036 - Mpow - INFO - login msg : login success
+2019-10-11 10:13:04,318 - Mpow - INFO - register result: register success
+2019-10-11 10:13:43,956 - Mpow - ERROR - return My Account error msg : submit fail

@@ -1,0 +1,10 @@
+2020-06-09 18:54:12,534 - Mpow - ERROR - 验证错误格式注册信息注册失败错误信息为：error register fail
+2020-06-09 18:54:12,534 - Mpow - ERROR - 验证错误格式注册信息注册失败错误信息为：error register fail
+2020-06-09 18:54:48,456 - Mpow - ERROR - email is null error : error register fail
+2020-06-09 18:54:48,456 - Mpow - ERROR - email is null error : error register fail
+2020-06-09 18:55:27,522 - Mpow - ERROR - password is null error : error register fail
+2020-06-09 18:55:27,522 - Mpow - ERROR - password is null error : error register fail
+2020-06-09 18:56:01,726 - Mpow - ERROR - register password short msg: error register fail
+2020-06-09 18:56:01,726 - Mpow - ERROR - register password short msg: error register fail
+2020-06-09 18:56:26,826 - Mpow - INFO - register password different result: register success
+2020-06-09 18:56:26,826 - Mpow - INFO - register password different result: register success

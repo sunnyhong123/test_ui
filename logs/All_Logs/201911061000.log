@@ -1,0 +1,27 @@
+2019-11-06 10:01:02,552 - Mpow - INFO - 验证错误格式注册信息注册失败：error verification success
+2019-11-06 10:01:02,552 - Mpow - INFO - 验证错误格式注册信息注册失败：error verification success
+2019-11-06 10:01:02,552 - Mpow - INFO - 验证错误格式注册信息注册失败：error verification success
+2019-11-06 10:01:21,830 - Mpow - INFO - email is null result: error verification success
+2019-11-06 10:01:21,830 - Mpow - INFO - email is null result: error verification success
+2019-11-06 10:01:21,830 - Mpow - INFO - email is null result: error verification success
+2019-11-06 10:01:39,710 - Mpow - INFO - password is null result: password verification success
+2019-11-06 10:01:39,710 - Mpow - INFO - password is null result: password verification success
+2019-11-06 10:01:39,710 - Mpow - INFO - password is null result: password verification success
+2019-11-06 10:01:58,382 - Mpow - INFO - register password short msg: password verification success
+2019-11-06 10:01:58,382 - Mpow - INFO - register password short msg: password verification success
+2019-11-06 10:01:58,382 - Mpow - INFO - register password short msg: password verification success
+2019-11-06 10:02:16,425 - Mpow - INFO - register password different result: password different verification success
+2019-11-06 10:02:16,425 - Mpow - INFO - register password different result: password different verification success
+2019-11-06 10:02:16,425 - Mpow - INFO - register password different result: password different verification success
+2019-11-06 10:02:33,345 - Mpow - INFO - login email is null msg : email null verification success
+2019-11-06 10:02:33,345 - Mpow - INFO - login email is null msg : email null verification success
+2019-11-06 10:02:33,345 - Mpow - INFO - login email is null msg : email null verification success
+2019-11-06 10:02:49,403 - Mpow - INFO - login password is null msg : password null verification success
+2019-11-06 10:02:49,403 - Mpow - INFO - login password is null msg : password null verification success
+2019-11-06 10:02:49,403 - Mpow - INFO - login password is null msg : password null verification success
+2019-11-06 10:03:08,148 - Mpow - INFO - login is register msg : login success
+2019-11-06 10:03:08,148 - Mpow - INFO - login is register msg : login success
+2019-11-06 10:03:08,148 - Mpow - INFO - login is register msg : login success
+2019-11-06 10:04:22,153 - Mpow - INFO - login msg : login success
+2019-11-06 10:04:22,153 - Mpow - INFO - login msg : login success
+2019-11-06 10:04:22,153 - Mpow - INFO - login msg : login success

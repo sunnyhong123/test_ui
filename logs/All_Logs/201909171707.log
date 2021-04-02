@@ -1,0 +1,9 @@
+2019-09-17 17:07:52,960 - Mpow - INFO - email is null result: error verification success
+2019-09-17 17:08:49,099 - Mpow - INFO - password is null result: password verification success
+2019-09-17 17:10:07,588 - Mpow - INFO - register password short msg: password verification success
+2019-09-17 17:10:43,414 - Mpow - INFO - register password different result: password different verification success
+2019-09-17 17:11:16,932 - Mpow - INFO - login email is null msg : email null verification success
+2019-09-17 17:11:50,647 - Mpow - INFO - login password is null msg : password null verification success
+2019-09-17 17:12:45,812 - Mpow - INFO - login is register msg : login success
+2019-09-17 17:13:38,619 - Mpow - INFO - login msg : login success
+2019-09-17 17:14:56,556 - Mpow - INFO - register result: register success

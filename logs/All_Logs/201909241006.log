@@ -1,0 +1,34 @@
+2019-09-24 10:06:19,541 - Mpow - INFO - login email is null msg : email null verification success
+2019-09-24 10:06:19,541 - Mpow - INFO - login email is null msg : email null verification success
+2019-09-24 10:06:54,319 - Mpow - INFO - login password is null msg : password null verification success
+2019-09-24 10:06:54,319 - Mpow - INFO - login password is null msg : password null verification success
+2019-09-24 10:06:54,319 - Mpow - INFO - login password is null msg : password null verification success
+2019-09-24 10:06:54,319 - Mpow - INFO - login password is null msg : password null verification success
+2019-09-24 10:07:51,060 - Mpow - INFO - login is register msg : login success
+2019-09-24 10:07:51,060 - Mpow - INFO - login is register msg : login success
+2019-09-24 10:07:51,060 - Mpow - INFO - login is register msg : login success
+2019-09-24 10:07:51,060 - Mpow - INFO - login is register msg : login success
+2019-09-24 10:08:46,287 - Mpow - ERROR - login error msg : password null verification fail
+2019-09-24 10:08:46,287 - Mpow - ERROR - login error msg : password null verification fail
+2019-09-24 10:08:46,287 - Mpow - ERROR - login error msg : password null verification fail
+2019-09-24 10:08:46,287 - Mpow - ERROR - login error msg : password null verification fail
+2019-09-24 10:08:46,591 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2019-09-24 10:08:46,591 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2019-09-24 10:08:46,591 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2019-09-24 10:08:46,591 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2019-09-24 10:09:44,743 - Mpow - INFO - register result: register success
+2019-09-24 10:09:44,743 - Mpow - INFO - register result: register success
+2019-09-24 10:09:44,743 - Mpow - INFO - register result: register success
+2019-09-24 10:09:44,743 - Mpow - INFO - register result: register success

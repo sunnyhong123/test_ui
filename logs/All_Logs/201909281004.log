@@ -1,0 +1,9 @@
+2019-09-28 10:05:09,720 - Mpow - INFO - password is null result: password verification success
+2019-09-28 10:06:07,923 - Mpow - INFO - register password short msg: password verification success
+2019-09-28 10:07:06,110 - Mpow - INFO - register password different result: password different verification success
+2019-09-28 10:07:41,055 - Mpow - INFO - login email is null msg : email null verification success
+2019-09-28 10:08:16,183 - Mpow - INFO - login password is null msg : password null verification success
+2019-09-28 10:09:13,705 - Mpow - INFO - login is register msg : login success
+2019-09-28 10:10:52,552 - Mpow - INFO - login msg : login success
+2019-09-28 10:11:49,550 - Mpow - ERROR - register error: not such elements
+2019-09-28 10:12:18,348 - Mpow - INFO - return My Account msg : submit success

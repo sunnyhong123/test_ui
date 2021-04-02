@@ -1,0 +1,9 @@
+2020-07-02 19:21:59,950 - Mpow - INFO - register result: register success
+2020-07-02 19:22:23,088 - Mpow - INFO - 验证错误格式注册信息注册失败：error verification success
+2020-07-02 19:22:45,124 - Mpow - INFO - email is null result: error verification success
+2020-07-02 19:23:09,224 - Mpow - INFO - password is null result: password different verification success
+2020-07-02 19:23:34,475 - Mpow - INFO - register password short msg: password verification success
+2020-07-02 19:23:59,052 - Mpow - INFO - login msg : login success
+2020-07-02 19:24:16,316 - Mpow - INFO - login email is null msg : password null verification fail
+2020-07-02 19:24:33,624 - Mpow - INFO - login password is null msg : password null verification fail
+2020-07-02 19:25:58,903 - Mpow - INFO - register result: register success

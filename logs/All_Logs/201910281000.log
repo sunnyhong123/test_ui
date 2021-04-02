@@ -1,0 +1,11 @@
+2019-10-28 10:01:00,080 - Mpow - INFO - register result: register success
+2019-10-28 10:02:22,072 - Mpow - INFO - 验证错误格式注册信息注册失败：error verification success
+2019-10-28 10:03:00,809 - Mpow - INFO - email is null result: error verification success
+2019-10-28 10:03:59,249 - Mpow - INFO - password is null result: password verification success
+2019-10-28 10:04:57,323 - Mpow - INFO - register password short msg: password verification success
+2019-10-28 10:05:36,569 - Mpow - INFO - register password different result: password different verification success
+2019-10-28 10:06:13,051 - Mpow - INFO - login email is null msg : email null verification success
+2019-10-28 10:06:49,566 - Mpow - INFO - login password is null msg : password null verification success
+2019-10-28 10:07:50,008 - Mpow - INFO - login is register msg : login success
+2019-10-28 10:09:37,552 - Mpow - INFO - login msg : login success
+2019-10-28 10:10:53,529 - Mpow - INFO - register result: register success

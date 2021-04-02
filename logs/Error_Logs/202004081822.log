@@ -1,0 +1,10 @@
+2020-04-08 18:22:24,276 - Mpow - ERROR - login  - 27 - login error msg : password null verification fail
+2020-04-08 18:22:24,276 - Mpow - ERROR - login  - 27 - login error msg : password null verification fail
+2020-04-08 18:22:24,552 - Mpow - ERROR - test_2login  - 32 - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-04-08 18:22:24,552 - Mpow - ERROR - test_2login  - 32 - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+

@@ -1,0 +1,29 @@
+2020-04-08 21:09:49,683 - Mpow - INFO - 验证错误格式注册信息注册失败：error verification success
+2020-04-08 21:09:49,683 - Mpow - INFO - 验证错误格式注册信息注册失败：error verification success
+2020-04-08 21:10:11,279 - Mpow - INFO - email is null result: error verification success
+2020-04-08 21:10:11,279 - Mpow - INFO - email is null result: error verification success
+2020-04-08 21:10:11,279 - Mpow - INFO - email is null result: error verification success
+2020-04-08 21:10:33,956 - Mpow - INFO - password is null result: password verification success
+2020-04-08 21:10:33,956 - Mpow - INFO - password is null result: password verification success
+2020-04-08 21:10:33,956 - Mpow - INFO - password is null result: password verification success
+2020-04-08 21:10:55,952 - Mpow - INFO - register password short msg: password verification success
+2020-04-08 21:10:55,952 - Mpow - INFO - register password short msg: password verification success
+2020-04-08 21:10:55,952 - Mpow - INFO - register password short msg: password verification success
+2020-04-08 21:11:18,892 - Mpow - INFO - register password different result: password different verification success
+2020-04-08 21:11:18,892 - Mpow - INFO - register password different result: password different verification success
+2020-04-08 21:11:18,892 - Mpow - INFO - register password different result: password different verification success
+2020-04-08 21:11:34,600 - Mpow - INFO - login email is null msg : email null verification success
+2020-04-08 21:11:34,600 - Mpow - INFO - login email is null msg : email null verification success
+2020-04-08 21:11:34,600 - Mpow - INFO - login email is null msg : email null verification success
+2020-04-08 21:11:50,039 - Mpow - INFO - login password is null msg : password null verification success
+2020-04-08 21:11:50,039 - Mpow - INFO - login password is null msg : password null verification success
+2020-04-08 21:11:50,039 - Mpow - INFO - login password is null msg : password null verification success
+2020-04-08 21:13:03,408 - Mpow - INFO - login msg : login success
+2020-04-08 21:13:03,408 - Mpow - INFO - login msg : login success
+2020-04-08 21:13:03,408 - Mpow - INFO - login msg : login success
+2020-04-08 21:13:24,129 - Mpow - INFO - register result: register success
+2020-04-08 21:13:24,129 - Mpow - INFO - register result: register success
+2020-04-08 21:13:24,129 - Mpow - INFO - register result: register success
+2020-04-08 21:13:34,595 - Mpow - INFO - return My Account msg : submit success
+2020-04-08 21:13:34,595 - Mpow - INFO - return My Account msg : submit success
+2020-04-08 21:13:34,595 - Mpow - INFO - return My Account msg : submit success

@@ -1,0 +1,38 @@
+2020-01-16 10:03:21,316 - Mpow - INFO - login password is null msg : password null verification success
+2020-01-16 10:03:21,316 - Mpow - INFO - login password is null msg : password null verification success
+2020-01-16 10:04:26,470 - Mpow - ERROR - login error msg : password null verification fail
+2020-01-16 10:04:26,470 - Mpow - ERROR - login error msg : password null verification fail
+2020-01-16 10:04:26,470 - Mpow - ERROR - login error msg : password null verification fail
+2020-01-16 10:04:26,470 - Mpow - ERROR - login error msg : password null verification fail
+2020-01-16 10:04:26,470 - Mpow - ERROR - login error msg : password null verification fail
+2020-01-16 10:04:26,470 - Mpow - ERROR - login error msg : password null verification fail
+2020-01-16 10:04:26,759 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-01-16 10:04:26,759 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-01-16 10:04:26,759 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-01-16 10:04:26,759 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-01-16 10:04:26,759 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-01-16 10:04:26,759 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-01-16 10:04:48,049 - Mpow - ERROR - register error: not such elements
+2020-01-16 10:04:48,049 - Mpow - ERROR - register error: not such elements
+2020-01-16 10:04:48,049 - Mpow - ERROR - register error: not such elements
+2020-01-16 10:04:48,049 - Mpow - ERROR - register error: not such elements
+2020-01-16 10:04:48,049 - Mpow - ERROR - register error: not such elements
+2020-01-16 10:04:48,049 - Mpow - ERROR - register error: not such elements

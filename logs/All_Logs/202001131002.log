@@ -1,0 +1,43 @@
+2020-01-13 10:02:19,549 - Mpow - INFO - register password short msg: password verification success
+2020-01-13 10:02:43,630 - Mpow - INFO - register password different result: password different verification success
+2020-01-13 10:02:43,630 - Mpow - INFO - register password different result: password different verification success
+2020-01-13 10:03:03,914 - Mpow - INFO - login email is null msg : email null verification success
+2020-01-13 10:03:03,914 - Mpow - INFO - login email is null msg : email null verification success
+2020-01-13 10:03:03,914 - Mpow - INFO - login email is null msg : email null verification success
+2020-01-13 10:03:03,914 - Mpow - INFO - login email is null msg : email null verification success
+2020-01-13 10:03:23,571 - Mpow - INFO - login password is null msg : password null verification success
+2020-01-13 10:03:23,571 - Mpow - INFO - login password is null msg : password null verification success
+2020-01-13 10:03:23,571 - Mpow - INFO - login password is null msg : password null verification success
+2020-01-13 10:03:23,571 - Mpow - INFO - login password is null msg : password null verification success
+2020-01-13 10:03:43,308 - Mpow - INFO - login is register msg : login success
+2020-01-13 10:03:43,308 - Mpow - INFO - login is register msg : login success
+2020-01-13 10:03:43,308 - Mpow - INFO - login is register msg : login success
+2020-01-13 10:03:43,308 - Mpow - INFO - login is register msg : login success
+2020-01-13 10:04:30,507 - Mpow - ERROR - login error msg : password null verification fail
+2020-01-13 10:04:30,507 - Mpow - ERROR - login error msg : password null verification fail
+2020-01-13 10:04:30,507 - Mpow - ERROR - login error msg : password null verification fail
+2020-01-13 10:04:30,507 - Mpow - ERROR - login error msg : password null verification fail
+2020-01-13 10:04:30,787 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-01-13 10:04:30,787 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-01-13 10:04:30,787 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-01-13 10:04:30,787 - Mpow - ERROR - login exception msg : 'login success' != 'password null verification fail'
+- login success
++ password null verification fail
+
+2020-01-13 10:04:52,799 - Mpow - INFO - register result: register success
+2020-01-13 10:04:52,799 - Mpow - INFO - register result: register success
+2020-01-13 10:04:52,799 - Mpow - INFO - register result: register success
+2020-01-13 10:04:52,799 - Mpow - INFO - register result: register success
+2020-01-13 10:05:01,004 - Mpow - INFO - return My Account msg : submit success
+2020-01-13 10:05:01,004 - Mpow - INFO - return My Account msg : submit success
+2020-01-13 10:05:01,004 - Mpow - INFO - return My Account msg : submit success
+2020-01-13 10:05:01,004 - Mpow - INFO - return My Account msg : submit success
