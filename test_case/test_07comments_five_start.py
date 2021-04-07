@@ -18,7 +18,7 @@ class Warranty(unittest.TestCase):
         cls.driver = webdriver.Chrome()
         # WebDriverWait(cls.driver,20,0.5).until(lambda el: cls.driver.find_element_by_xpath("//[@id='a']/h3/a") )
         cls.driver.implicitly_wait(10)
-        cls.driver.maximize_window()   #https://www.xmpow.com/?preview_theme_id=81714741366
+        cls.driver.maximize_window()
         cls.url = "https://www.xmpow.com/pages/warranty?preview_theme_id=81714741366"
         cls.system_url = "https://brandwtest.patozon.net/#/login?redirect=%2Fdashboard"
         cls.rw = WarrantyAct(cls.driver)

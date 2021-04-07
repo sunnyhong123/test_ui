@@ -21,7 +21,7 @@ class WarrantyAct(object):
         #注册延保
         try:
             WarrantyAct.register_submit(self,account,order_num)
-            time.sleep(2)
+            time.sleep(3)
             class_status = self.driver.find_element_by_xpath("//*[@id='__layout']/div/div").get_attribute("class")
             # print(class_status)
             if class_status == "thanks-for-rating":
@@ -71,7 +71,7 @@ class WarrantyAct(object):
             time.sleep(1)
             # 点击Next Step
             self.elt.click('xpath', '//*[@id="__layout"]/div/div/div[2]/button')
-            time.sleep(1)
+            time.sleep(2)
             five_start_text = self.elt.get_text('xpath','//*[@id="__layout"]/div/div/div[2]/div[1]/h3')
             if "Share your review with us and get another" in five_start_text:
                 #点击share to get xxx point
@@ -81,7 +81,9 @@ class WarrantyAct(object):
                 time.sleep(2)
                 #判断是否进入RV留评页面
                 rv_text = self.elt.get_text('xpath','//*[@id="__layout"]/div/div/div[2]/ul/li/div[2]/form/div[1]/span/div/span/button/span')
-                if rv_text == "Upload File":
+                print(rv_text)
+                time.sleep(2)
+                if rv_text == "Upload Review File":
                     #输入亚马逊链接
                     self.elt.input_send('xpath','//*[@id="__layout"]/div/div/div[2]/ul/li/div[2]/form/div[2]/input',
                                         'https://www.amazon.com/review/mpow_ui_test')
