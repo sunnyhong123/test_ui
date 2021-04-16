@@ -21,10 +21,7 @@ class Register(object):
             read_rd_email = self.date.read_doc(self.path)
             self.date.save_doc(self.path, read_rd_email.replace(read_rd_email, email))
             # 密码
-            # password1 = self.rd_all.return_password()
-            # password2 = self.rd_all.return_password()
             password1 = "123456"
-
             register_is_true = Register.return_register_result(self,email,password1)
             if register_is_true[0] is True:
                 self.logger.info("register result: %s"%register_is_true[1])

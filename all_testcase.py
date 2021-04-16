@@ -4,19 +4,12 @@ import HTMLTestRunner
 import os
 
 # 用例路径
-os_path = os.getcwd().split("test_case")[0]
-
-if os_path != "F:\Mpow_test":
-    os_path = "F:\Mpow_test"
-
+os_path = os.path.dirname(__file__)
 case_path = os.path.join(os_path, "test_case")
 
 # 报告存放路径
-os_report = os.getcwd().split("report")[0]
+os_report = os.path.dirname(__file__)
 
-if os_report != "F:\Mpow_test":
-    os_report ="F:\Mpow_test"
-print(os_report)
 report_path = os.path.join(os_report, "report")
 
 def all_case():

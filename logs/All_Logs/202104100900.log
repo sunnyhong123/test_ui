@@ -1,0 +1,15 @@
+2021-04-10 09:00:42,783 - Mpow - INFO - register result: register success
+2021-04-10 09:01:07,482 - Mpow - INFO - 验证错误格式注册信息注册失败：error verification success
+2021-04-10 09:01:07,482 - Mpow - INFO - 验证错误格式注册信息注册失败：error verification success
+2021-04-10 09:01:34,964 - Mpow - INFO - email is null result: error verification success
+2021-04-10 09:01:34,964 - Mpow - INFO - email is null result: error verification success
+2021-04-10 09:02:00,968 - Mpow - INFO - password is null result: password different verification success
+2021-04-10 09:02:00,968 - Mpow - INFO - password is null result: password different verification success
+2021-04-10 09:02:27,883 - Mpow - INFO - register password short msg: password verification success
+2021-04-10 09:02:27,883 - Mpow - INFO - register password short msg: password verification success
+2021-04-10 09:02:53,232 - Mpow - INFO - login msg : login success
+2021-04-10 09:02:53,232 - Mpow - INFO - login msg : login success
+2021-04-10 09:03:17,107 - Mpow - INFO - login msg : login success
+2021-04-10 09:03:17,107 - Mpow - INFO - login msg : login success
+2021-04-10 09:03:17,124 - Mpow - ERROR - return My Account error msg : profile is update
+2021-04-10 09:03:17,124 - Mpow - ERROR - return My Account error msg : profile is update

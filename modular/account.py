@@ -35,6 +35,7 @@ class MyAccount(object):
                 time.sleep(2)
                 # self.driver.switch_to.frame(self.driver.find_element_by_id("myiframe"))
                 #user name last name
+                self.driver.refresh()
                 first_name =self.rd.rd_name()
                 print(first_name)
                 last_name = self.rd.rd_name()
@@ -45,7 +46,7 @@ class MyAccount(object):
                 #随机选择country
                 self.elt.click("xpath", '//*[@id="__layout"]/div/div/div/div/div[2]/div/form/div[3]/div[1]/div/div[2]/div/span/div/div/span')
                 time.sleep(0.5)  #/html/body/div[24]/div/div     /html/body/div[22]/div/div
-                MyAccount.rd_country_gender_birthday(self,23)
+                MyAccount.rd_country_gender_birthday(self,22)
                 time.sleep(1)
 
                 #随机选择city
@@ -84,21 +85,22 @@ class MyAccount(object):
                 #MM
                 self.elt.click("xpath",'//*[@id="__layout"]/div/div/div/div/div[2]/div/form/div[4]/div[1]/div/div[2]/div/span/div/div[1]/div/div/span')
                 time.sleep(0.5)
-                self.elt.click("xpath",'/html/body/div[24]/div/div/div/ul/li[1]')
+                self.elt.click("xpath",'/html/body/div[23]/div/div/div/ul/li[1]')
                 time.sleep(0.5)
                 #DD
                 self.elt.click('xpath','//*[@id="__layout"]/div/div/div/div/div[2]/div/form/div[4]/div[1]/div/div[2]/div/span/div/div[2]/div/div/span')
                 time.sleep(0.5)   #/html/body/div[24]/div/div  /html/body/div[25]/div/div
-                self.elt.click('xpath','/html/body/div[25]/div/div/div/ul/li[1]')
+                self.elt.click('xpath','/html/body/div[24]/div/div/div/ul/li[1]')
                 time.sleep(0.5)
                 #YYYY    /html/body/div[26]/div/div
                 self.elt.click('xpath','//*[@id="__layout"]/div/div/div/div/div[2]/div/form/div[4]/div[1]/div/div[2]/div/span/div/div[3]/div/div/span')
                 time.sleep(0.5)
-                self.elt.click('xpath','/html/body/div[26]/div/div/div/ul/li[1]')
+                self.elt.click('xpath','/html/body/div[25]/div/div/div/ul/li[1]')
 
-                #随机选择性别Gender  /html/body/div[24]  /html/body/div[23]/div/div
-                self.elt.click('xpath','//*[@id="__layout"]/div/div/div/div/div[2]/div/form/div[4]/div[2]/div/div[2]/div/span/div/div/span/i')
-                MyAccount.rd_country_gender_birthday(self,24)
+                #随机选择性别Gender
+                self.elt.click('xpath','//*[@id="__layout"]/div/div/div/div/div[2]/div/form/div[4]/div[2]/div/div[2]/div/span/div/div')
+                MyAccount.rd_country_gender_birthday(self,26)
+
 
                 #滑动滚动条
                 js = "window.scrollTo(0,200)"
@@ -110,9 +112,9 @@ class MyAccount(object):
                 self.elt.click("xpath",'//*[@id="__layout"]/div/div/div/div/div[2]/div/form/div[5]/button')
 
                 time.sleep(3)
-                submit_msg = self.elt.get_text("xpath",'//*[@id="__layout"]/div/div/div/div/div[2]/div/form/div[6]')
+                submit_msg = self.elt.get_text("xpath",'//*[@id="__layout"]/div/div/div/div/div[2]/div/div/button/span')
                 # Your information has been saved successfully.
-                if submit_msg == "Complete your profile to get 50 points.":
+                if submit_msg == "Edit Profile":
                     return  True ,"submit success"
                 else:
                     return  False , "submit fail"

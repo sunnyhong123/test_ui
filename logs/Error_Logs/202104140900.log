@@ -1,0 +1,10 @@
+2021-04-14 09:08:17,029 - Mpow - ERROR - login  - 31 - login exception msg : Message: timeout
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2021-04-14 09:08:17,029 - Mpow - ERROR - login  - 31 - login exception msg : Message: timeout
+  (Session info: chrome=88.0.4324.190)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2021-04-14 09:08:17,132 - Mpow - ERROR - account  - 22 - return My Account error msg : profile is update
+2021-04-14 09:08:17,132 - Mpow - ERROR - account  - 22 - return My Account error msg : profile is update

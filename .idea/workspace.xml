@@ -34,7 +34,7 @@
       <recent name="F:\Mpow_test\public" />
     </key>
   </component>
-  <component name="RunManager" selected="Python 测试.Unittest in test_07comments_five_start.py">
+  <component name="RunManager" selected="Python 测试.Unittest in test_03update_profile.py">
     <configuration default="true" type="Python.Ipnb" factoryName="Jupyter Notebook">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +72,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="all_test_send_report" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mpow_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modular" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modular/account.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="all_testcase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mpow_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,49 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/all_test_send_report.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Mpow_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Python\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/public" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/public/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_01register" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Mpow_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Python\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_case/test_01register.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/all_testcase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,6 +125,34 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittest in test_03update_profile.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Mpow_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_03update_profile.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittest in test_06comments_three_stars.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Mpow_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_06comments_three_stars.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittest in test_07comments_five_start.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Mpow_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,34 +167,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_04register_warranty.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="Mpow_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_04register_warranty.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.test_01register" />
-      <item itemvalue="Python.all_test_send_report" />
-      <item itemvalue="Python 测试.Unittests in test_04register_warranty.py" />
       <item itemvalue="Python 测试.Unittest in test_07comments_five_start.py" />
+      <item itemvalue="Python 测试.Unittest in test_06comments_three_stars.py" />
+      <item itemvalue="Python.all_testcase" />
+      <item itemvalue="Python 测试.Unittest in test_03update_profile.py" />
+      <item itemvalue="Python.account" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python 测试.Unittest in test_03update_profile.py" />
+        <item itemvalue="Python.account" />
+        <item itemvalue="Python.all_testcase" />
         <item itemvalue="Python 测试.Unittest in test_07comments_five_start.py" />
-        <item itemvalue="Python 测试.Unittests in test_04register_warranty.py" />
-        <item itemvalue="Python.all_test_send_report" />
-        <item itemvalue="Python.test_01register" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python 测试.Unittest in test_06comments_three_stars.py" />
       </list>
     </recent_temporary>
   </component>
@@ -209,58 +202,70 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="294" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1617331066552" />
-    <state width="1898" height="235" key="GridCell.Tab.0.bottom" timestamp="1617758645053">
+    <state width="1898" height="217" key="GridCell.Tab.0.bottom" timestamp="1618555728844">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="235" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1617758645053" />
-    <state width="1898" height="235" key="GridCell.Tab.0.center" timestamp="1617758645053">
+    <state width="1898" height="217" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1618555728844" />
+    <state width="1898" height="217" key="GridCell.Tab.0.center" timestamp="1618555728844">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="235" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1617758645053" />
-    <state width="1898" height="235" key="GridCell.Tab.0.left" timestamp="1617758645053">
+    <state width="1898" height="217" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1618555728844" />
+    <state width="1898" height="217" key="GridCell.Tab.0.left" timestamp="1618555728844">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="235" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1617758645053" />
-    <state width="1898" height="235" key="GridCell.Tab.0.right" timestamp="1617758645053">
+    <state width="1898" height="217" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1618555728844" />
+    <state width="1898" height="217" key="GridCell.Tab.0.right" timestamp="1618555728844">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="235" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1617758645053" />
-    <state width="1898" height="235" key="GridCell.Tab.1.bottom" timestamp="1617758640964">
+    <state width="1898" height="217" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1618555728844" />
+    <state width="1898" height="334" key="GridCell.Tab.1.bottom" timestamp="1618555687204">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="235" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1617758640964" />
-    <state width="1898" height="235" key="GridCell.Tab.1.center" timestamp="1617758640964">
+    <state width="1898" height="334" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1618555687204" />
+    <state width="1898" height="334" key="GridCell.Tab.1.center" timestamp="1618555687204">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="235" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1617758640964" />
-    <state width="1898" height="235" key="GridCell.Tab.1.left" timestamp="1617758640964">
+    <state width="1898" height="334" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1618555687204" />
+    <state width="1898" height="334" key="GridCell.Tab.1.left" timestamp="1618555687204">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="235" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1617758640964" />
-    <state width="1898" height="235" key="GridCell.Tab.1.right" timestamp="1617758640964">
+    <state width="1898" height="334" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1618555687204" />
+    <state width="1898" height="334" key="GridCell.Tab.1.right" timestamp="1618555687204">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="235" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1617758640964" />
+    <state width="1898" height="334" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1618555687204" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_case/test_01register.py</url>
-          <line>42</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/modular/account.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_case/test_07comments_five_start.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/modular/account.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/modular/register_warranty.py</url>
-          <line>82</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/modular/account.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modular/account.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>

@@ -1,0 +1,11 @@
+2021-04-12 09:01:40,372 - Mpow - INFO - email is null result: error verification success
+2021-04-12 09:02:06,625 - Mpow - INFO - password is null result: password different verification success
+2021-04-12 09:02:06,625 - Mpow - INFO - password is null result: password different verification success
+2021-04-12 09:02:31,908 - Mpow - INFO - register password short msg: password verification success
+2021-04-12 09:02:31,908 - Mpow - INFO - register password short msg: password verification success
+2021-04-12 09:02:55,735 - Mpow - INFO - login msg : login success
+2021-04-12 09:02:55,735 - Mpow - INFO - login msg : login success
+2021-04-12 09:03:17,715 - Mpow - INFO - login msg : login success
+2021-04-12 09:03:17,715 - Mpow - INFO - login msg : login success
+2021-04-12 09:03:17,733 - Mpow - ERROR - return My Account error msg : profile is update
+2021-04-12 09:03:17,733 - Mpow - ERROR - return My Account error msg : profile is update
